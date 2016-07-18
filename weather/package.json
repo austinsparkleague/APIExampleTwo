@@ -1,0 +1,32 @@
+{
+    "author": "liam@mcmains.net",
+    "dependencies": {},
+    "keywords": [],
+    "name": "api-examples",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "API Examples",
+        "enableMultiJS": true,
+        "messageKeys": {
+            "message": 1,
+            "status": 0
+        },
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "24bd0edb-6053-43a9-8fd9-5f337c8d97e8",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
